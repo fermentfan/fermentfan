@@ -1,10 +1,8 @@
 ## Hi there my name is Dennis ✋
 
-👨‍💻 I am a product engineer that [gives a shit](https://allenpike.com/2022/giving-a-shit) at [caro.vc](https://www.caro.vc) employed by [Spherity](https://www.spherity.com). During the nights I co-founded [Qourses](https://www.qours.es).
+👨‍💻 I am a product engineer & co-founder that [gives a shit](https://allenpike.com/2022/giving-a-shit) at [Qourses](https://www.qours.es).
 
 🎥 Professional streamer for a small audience at work.
-
-🧨 Embracing self sovereign identities for the users of the web.
 
 ### Mindset
 
