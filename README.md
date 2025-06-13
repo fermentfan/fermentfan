@@ -1,6 +1,6 @@
 ## Hi there my name is Dennis ✋
 
-👨‍💻 I am an engineer [@petsapp](https://petsapp.com) & co-founder that [gives a shit](https://allenpike.com/2022/giving-a-shit) at [Qourses](https://www.qours.es).
+👨‍💻 I am an engineer [@petsapp](https://petsapp.com) & co-founder that [gives a shit](https://allenpike.com/2022/giving-a-shit) [@Qourses](https://www.qours.es).
 
 🎥 Professional streamer for a small audience at work.
 
